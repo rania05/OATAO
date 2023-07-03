@@ -1,0 +1,8 @@
+C:\Users\Archimed\source\repos\ISAE_OATAO\bin\Debug\ISAE_OATAO.exe.config
+C:\Users\Archimed\source\repos\ISAE_OATAO\bin\Debug\ISAE_OATAO.exe
+C:\Users\Archimed\source\repos\ISAE_OATAO\bin\Debug\ISAE_OATAO.pdb
+C:\Users\Archimed\source\repos\ISAE_OATAO\obj\Debug\ISAE_OATAO.csproj.AssemblyReference.cache
+C:\Users\Archimed\source\repos\ISAE_OATAO\obj\Debug\ISAE_OATAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Archimed\source\repos\ISAE_OATAO\obj\Debug\ISAE_OATAO.csproj.CoreCompileInputs.cache
+C:\Users\Archimed\source\repos\ISAE_OATAO\obj\Debug\ISAE_OATAO.exe
+C:\Users\Archimed\source\repos\ISAE_OATAO\obj\Debug\ISAE_OATAO.pdb
